@@ -16,7 +16,7 @@ Requirements:
 
 Setup:
 
-1. Clone this repository to your desktop `$ git clone https://github.com/zacharyMatthewstearn/github_lookup.git`
+1. Clone this repository to your desktop `$ git clone https://github.com/CateNjeri/Github_lookup.git`
 2. Create a file in the root directory of the cloned project named _.env_
 3. Copy the following line into your .env file: _exports.apiKey = "###";_
 4. Replace the ### (keeping the quotation marks) with your _GitHub Personal Access Token_
